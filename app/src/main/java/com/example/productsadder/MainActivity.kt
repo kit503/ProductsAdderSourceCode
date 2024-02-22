@@ -31,7 +31,7 @@ import java.io.ByteArrayOutputStream
 import java.io.File
 import java.util.UUID
 
-//Change the security access settings in the firebase cloud and firestore
+
 class MainActivity : AppCompatActivity() {
     private val binding by lazy { ActivityMainBinding.inflate(layoutInflater) }
     val selectedColors = mutableListOf<Int>()

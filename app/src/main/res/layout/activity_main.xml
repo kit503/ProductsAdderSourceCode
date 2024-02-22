@@ -36,7 +36,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Product general information:"
+                android:text="Información General del Producto:"
                 android:textColor="@color/black"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -46,33 +46,33 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:hint="Name" />
+                android:hint="Nombre" />
 
 
             <EditText
                 android:id="@+id/edCategory"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Category" />
+                android:hint="Categoría" />
 
             <EditText
                 android:id="@+id/edDescription"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Product description (Optional)" />
+                android:hint="Descripción del Producto (Opcional)" />
 
             <EditText
                 android:id="@+id/edPrice"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Price"
+                android:hint="Precio"
                 android:inputType="numberDecimal" />
 
             <EditText
                 android:id="@+id/edOfferPercentage"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Offer Percentage (Optional)"
+                android:hint="Porcentaje de descuento (Opcional)"
                 android:inputType="numberDecimal" />
 
         </androidx.appcompat.widget.LinearLayoutCompat>
@@ -90,7 +90,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Product details:"
+                android:text="Detalles del Producto:"
                 android:textColor="@color/black"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -99,7 +99,7 @@
                 android:id="@+id/edSizes"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Sizes (Optional) | use , between each new size"
+                android:hint="Tamaño (Opcional) | Usar ',' entre cada tamaño"
                 android:inputType="text" />
 
             <LinearLayout
@@ -112,7 +112,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="Colors"
+                    android:text="Colores"
                     android:textSize="14sp" />
 
                 <TextView
@@ -134,7 +134,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="Images"
+                    android:text="Imágenes"
                     android:textSize="14sp" />
 
                 <TextView
