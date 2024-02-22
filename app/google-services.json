@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806630035252",
+    "project_id": "ecommerce-chocotejas",
+    "storage_bucket": "ecommerce-chocotejas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806630035252:android:e92bfb635adbdf6e745f61",
+        "android_client_info": {
+          "package_name": "com.example.ecommercecibertejas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDx-0cUUu-xr5cAv6DRRdAehrP8mctbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806630035252:android:74c8106016e6a8fc745f61",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDx-0cUUu-xr5cAv6DRRdAehrP8mctbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
